@@ -12,7 +12,7 @@ body {
 }
 
 .container3 {
-  background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('../images/pexels-filippo-peisino-2678301.jpg');
+  background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('https://r4.wallpaperflare.com/wallpaper/384/676/979/festivals-holidays-independence-day-wallpaper-b2e162b00d263e6baaa8d215306839f2.jpg');
   position: relative;
   overflow-y: scroll;
   overflow-x: hidden;
