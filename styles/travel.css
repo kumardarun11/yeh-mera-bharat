@@ -10,7 +10,7 @@ body {
   
   /* Header Section */
   header {
-    background-image: url('/images/heritage_background.jpg'); /* Use a heritage design background image */
+    background-image: url('../images/heritage_background.jpg'); /* Use a heritage design background image */
     background-size: cover;
     background-position: center;
     background-blend-mode: overlay; /* Blend with a semi-transparent overlay */
