@@ -2,6 +2,11 @@
 
 const unescoSights = [
   {
+    reDirectionForMoreInfo: 'https://whc.unesco.org/en/list/1605',
+    siteImage:
+      'https://whc.unesco.org/uploads/thumbs/site_1605_0013-750-750-20221005171943.jpg',
+  },
+  {
     reDirectionForMoreInfo: 'https://whc.unesco.org/en/list/1502',
     siteImage:
       'https://upload.wikimedia.org/wikipedia/commons/d/dd/Temple_No.-_3%2C_Nalanda_Archaeological_Site.jpg',
